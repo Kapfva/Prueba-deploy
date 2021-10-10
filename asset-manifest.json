@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Prueba-deploy/static/css/main.e129fd47.chunk.css",
-    "main.js": "/Prueba-deploy/static/js/main.4d0bd3a9.chunk.js",
-    "main.js.map": "/Prueba-deploy/static/js/main.4d0bd3a9.chunk.js.map",
+    "main.css": "/Prueba-deploy/static/css/main.a0a820af.chunk.css",
+    "main.js": "/Prueba-deploy/static/js/main.13b8e0ae.chunk.js",
+    "main.js.map": "/Prueba-deploy/static/js/main.13b8e0ae.chunk.js.map",
     "runtime-main.js": "/Prueba-deploy/static/js/runtime-main.5631cbae.js",
     "runtime-main.js.map": "/Prueba-deploy/static/js/runtime-main.5631cbae.js.map",
     "static/js/2.137c61eb.chunk.js": "/Prueba-deploy/static/js/2.137c61eb.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.56da4f9b.chunk.js": "/Prueba-deploy/static/js/3.56da4f9b.chunk.js",
     "static/js/3.56da4f9b.chunk.js.map": "/Prueba-deploy/static/js/3.56da4f9b.chunk.js.map",
     "index.html": "/Prueba-deploy/index.html",
-    "static/css/main.e129fd47.chunk.css.map": "/Prueba-deploy/static/css/main.e129fd47.chunk.css.map",
+    "static/css/main.a0a820af.chunk.css.map": "/Prueba-deploy/static/css/main.a0a820af.chunk.css.map",
     "static/js/2.137c61eb.chunk.js.LICENSE.txt": "/Prueba-deploy/static/js/2.137c61eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5631cbae.js",
     "static/js/2.137c61eb.chunk.js",
-    "static/css/main.e129fd47.chunk.css",
-    "static/js/main.4d0bd3a9.chunk.js"
+    "static/css/main.a0a820af.chunk.css",
+    "static/js/main.13b8e0ae.chunk.js"
   ]
 }
